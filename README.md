@@ -76,6 +76,4 @@ Minha experiência anterior em Garantia da Qualidade me deu uma base em **análi
   
 ### ✨ "Nós somos aquilo que fazemos repetidamente." ✨
 
-![](https://komarev.com/ghpvc/?username=arianewelke&color=blueviolet&style=flat-square&label=Visitantes+do+Perfil)
-
 </div>
