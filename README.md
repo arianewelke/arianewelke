@@ -2,7 +2,7 @@
   
 # Olá! Eu sou Ariane Welke 👋
 
-### Desenvolvedora Full Stack | Java | Spring Boot | React | Vue.js
+### Desenvolvedora Full Stack | Java | Spring Boot | React | 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arianewelke/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arianewelke)
@@ -17,13 +17,16 @@
 
 <img align="right" alt="Coding with cats" width="400" src="https://github.com/user-attachments/assets/9d667152-75f8-450e-87f6-079c1529e1ae">
 
-Estudante de Análise e Desenvolvimento de Sistemas.
+Olá! Sou estudante de Análise e Desenvolvimento de Sistemas, em transição de carreira. Atualmente, sou Estagiária de Desenvolvimento, focando na construção de soluções escaláveis e no aprendizado contínuo de novas tecnologias.
 
-Engenheira de Alimentos em **transição para a área de tecnologia**.
+  No que estou focada hoje:
+Backend & Arquitetura: Aprofundando conhecimentos em Java e Spring Boot, com foco em Clean Code, SOLID e padrões de arquitetura de software.
 
-Sou **Estagiária Full Stack na R2DA**, onde atuo no desenvolvimento de aplicações com **Java** e **Vue.js**, incluindo manutenções corretivas e evolutivas em sistemas.
+Frontend Moderno: Desenvolvendo interfaces dinâmicas e responsivas utilizando React e Vue.js.
 
-Minha experiência anterior em Garantia da Qualidade me deu uma base em **análise crítica**, **resolução de problemas** e **trabalho em equipe**, agora aplicadas ao desenvolvimento de software, com foco em metodologias ágeis (Scrum, Kanban).
+Inteligência Artificial: Explorando a integração de IA no ciclo de desenvolvimento de software para otimização de código e produtividade.
+
+Ecossistema Cloud: Experiência prática com ambientes de nuvem e ferramentas modernas de deploy.
 
 <br clear="right"/>
 
@@ -39,7 +42,6 @@ Minha experiência anterior em Garantia da Qualidade me deu uma base em **análi
 ### Frameworks & Bibliotecas
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 
 ### Banco de Dados
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -65,10 +67,9 @@ Minha experiência anterior em Garantia da Qualidade me deu uma base em **análi
 
 ## 🎯 Foco Atual
 
-- 🔭 Desenvolvendo aplicações Full Stack com Java e Vue.js
+- 🔭 Desenvolvendo aplicações Full Stack com Java
 - 🌱 Aprofundando conhecimentos em Spring Boot e React
 - 👯 Aberta a colaborações em projetos open source
-- 💬 Pergunte-me sobre Java, Spring Boot, React ou Vue.js
 
 ---
 
