@@ -17,11 +17,11 @@
 
 <img align="right" alt="Coding with cats" width="400" src="https://github.com/user-attachments/assets/9d667152-75f8-450e-87f6-079c1529e1ae">
 
-Comecei minha carreira na engenharia de qualidade da indústria alimentícia — hoje troquei especificações técnicas de produto por especificações técnicas de software 🍝➡️💻
+Comecei minha carreira na engenharia de qualidade da indústria alimentícia, hoje troquei especificações técnicas de produto por especificações técnicas de software.
 
-Sou Engenheira de Software Júnior, curto backend com Java/Spring Boot, me viro bem no frontend Angular, e tô sempre testando o que a IA pode fazer pelo meu fluxo de trabalho.
+Sou Engenheira de Software Júnior, trabalho com backend em Java/Spring Boot, me viro bem no frontend Angular, e tô sempre testando o que a IA pode fazer pelo meu fluxo de trabalho.
 
-Fora do código: aprendendo sempre, quebrando algo pra aprender a consertar.
+Fora do código: aprendendo sempre, lendo alguns livros e brincando com meus três gatinhos.
 
 <br clear="right"/>
 
@@ -56,16 +56,7 @@ Fora do código: aprendendo sempre, quebrando algo pra aprender a consertar.
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
 
 ---
-
-## 📈 Estatísticas GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arianewelke&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arianewelke&layout=compact&langs_count=7&theme=tokyonight&locale=pt-br"/>
-</div>
-
-<div align="center">
   
-### ✨ "Nós somos aquilo que fazemos repetidamente." ✨
+### "Nós somos aquilo que fazemos repetidamente." ✨
 
 </div>
